@@ -43,4 +43,10 @@
   --font-size-xs: 12px;  --font-size-sm: 13px;  --font-size-base: 14px;
   --font-size-lg: 17px;  --font-size-xl: 20px;
   --font-size-2xl: 24px; --font-size-3xl: 30px;
+}* {
+  box-sizing: border-box;
 }
+body {
+  overflow-x: hidden;
+}
+
